@@ -10,7 +10,7 @@ const ToolPit = ({position})=>{
     const handleMouseLeave= ()=>{
         setShowTooltip(false)
     }
-    console.log(showTooltip)
+
     return(
         <>
             <div className={style.toolpitContainer}>

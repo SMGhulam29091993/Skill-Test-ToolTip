@@ -19,12 +19,12 @@
 }
 .top{
     background-color: black;
-    width: inherit;
+    width: 200px;
     color: #fff;
     height:auto;
     padding : 10px;
     position : relative;
-    left : 0rem;
+    left : -1rem;
     top : -6rem;
     position: absolute;
 }
