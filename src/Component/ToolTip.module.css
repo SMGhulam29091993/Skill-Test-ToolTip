@@ -1,0 +1,52 @@
+#hoverBtn{
+    border: none;
+    outline: none;
+    padding : 15px ;
+    background-color: aquamarine;
+    font-weight: 900;
+}
+
+.toolpitContainer {
+    position: relative;
+}
+.bottom{
+    background-color: black;
+    width: 150px;
+    color: #fff;
+    height:auto;
+    padding : 10px;
+    position: absolute;
+}
+.top{
+    background-color: black;
+    width: inherit;
+    color: #fff;
+    height:auto;
+    padding : 10px;
+    position : relative;
+    left : 0rem;
+    top : -6rem;
+    position: absolute;
+}
+.left{
+    background-color: black;
+    width: 150px;
+    color: #fff;
+    height:auto;
+    padding : 10px;
+    position : relative;
+    left :-11rem;
+    top : -1rem;
+    position: absolute;
+}
+.right{
+    background-color: black;
+    width: 150px;
+    color: #fff;
+    height:auto;
+    padding : 10px;
+    position : relative;
+    left :11rem;
+    top : -1rem;
+    position: absolute;
+}

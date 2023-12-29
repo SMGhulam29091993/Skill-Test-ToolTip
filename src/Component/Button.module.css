@@ -1,0 +1,22 @@
+.main{
+    margin : 1rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.btn{
+    padding: 10px;
+    border: none;
+    outline: none;
+    letter-spacing: 0.09rem;
+    margin-right: 1rem;
+    margin-bottom: 6rem;
+    background: linear-gradient(40deg,red,yellow);
+    text-transform : uppercase;
+    font-weight: 800;
+}
